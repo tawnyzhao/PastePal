@@ -1,6 +1,6 @@
 {
-  "short_name": "PastePal",
-  "name": "Paste Pal",
+  "short_name": "Ohana",
+  "name": "Ohana",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     },
     {
-      "src": "pup512.png",
+      "src": "stitch.png",
       "type": "image/png",
       "sizes": "512x512"
     }
